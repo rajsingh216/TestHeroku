@@ -1,2 +1,2 @@
 # TestHeroku
-Host .Net Core Application fro free
+Host .Net Core Application for free
